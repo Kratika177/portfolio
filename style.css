@@ -1,0 +1,159 @@
+
+#logo{
+    font-family:cursive;
+}
+.main{
+    display:flex;
+    
+}
+.contact{
+    display:flex;
+}
+.contact div{
+    
+    margin-right: 10px;
+}
+.contact img{
+    width: 40px;
+    height: 40px;
+}
+#face{
+    height:100vh;
+}
+.image{
+    transition: ease-in;
+    animation-duration: 3px;
+    
+}
+a tilte{
+    background-color: black;
+    color:white;
+    padding: 20px;
+}
+.about{
+    margin-top: 100px;
+    margin-right: 100px;
+}
+.greet{
+    font-weight: bolder;
+    color:black;
+}
+.cv{
+    display: inline;
+    text-decoration: none;
+    background-color: black;
+    padding-left: 20px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:white;
+    border-top-right-radius:20px;
+    border-bottom-right-radius:20px ;
+}
+.cv:hover{
+    display: inline;
+    text-decoration: none;
+    background-color: black;
+    transition: ease-in 0.5s;
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:white;
+    border-top-right-radius:20px;
+    border-bottom-right-radius:20px ;
+}
+.seeall{
+    color:white;
+    text-decoration: none;
+    background-color: black;
+    width:fit-content;
+    display: block;
+    padding:20px;
+    border-radius: 100%;
+}
+.button{
+    color:white;
+    text-decoration: none;
+    background-color: black;
+    
+    display: block;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+}
+.button:hover{
+    color:black;
+    font-size: large;
+    background-color: white;
+    border: 2px solid black;
+}
+.qual{
+    height:100px;
+    width:100px;
+}
+.cer{
+    height:200px;
+    width:250px;
+}
+.academics{
+    margin-bottom: 20px;
+}
+.mainac{
+    padding:50px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.qhead{
+    padding-top: 20px;
+    display: inline;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.about h1{
+    font-family:'Bilbo';
+}
+.sec{
+    padding:40px;
+    display: flex;
+    flex-wrap: wrap;
+    width: fit-content;
+}
+.sec div{
+    justify-content: center;
+}
+
+.sec1{
+    background-color: #000;
+    color: white;
+    font-family:cursive;
+    padding-top: 20px;
+    
+}
+.sec1 div div{
+    background-color: white;
+    padding: 10px;
+    border:0px solid white;
+}
+.sec1 img{
+    height: 150px;
+    width:150px;
+}
+.sec1 img:hover{
+    height: 155px;
+    width: 155px;
+}
+.academics{
+    color:white;
+    background-color: black;
+}
+.academics h2{
+    color:white;
+}
+.inneracad{
+    margin-bottom: 20px;
+}
